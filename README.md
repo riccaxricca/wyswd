@@ -29,3 +29,9 @@ tba
 
 ### 2023-x-x [南通大学附属中学校长被网暴事件](./)
 tba
+
+
+### 致谢
+- 感谢@PrussianBlueCN的commit。
+- 感谢sdljfkl，ToutSeul等热心网友提供的宝贵资料。
+- 特别感谢sdljfkl做的NGA理查版数据备份repo，[RichardData](https://github.com/RichardGuyNotFavMHY/RichardData)。
