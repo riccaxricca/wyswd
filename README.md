@@ -19,7 +19,8 @@
 3. 最初的贴主`Snoo2612`在原贴编辑了[更多内容](./zoe_fang/zoefang_reddit_edit.jpg)，承认了头像为亚洲女人的推特账户`@zoefang66`就是她本人。此次编辑[再次引起NGA讨论](./zoe_fang/[NGA]Reddit热帖帖主编辑.jpg)。
 
 
-### 2023-7-21 [米哈游资深文案limengan爆典事件](./limengan/)
+### 2023-7-21 ["幽兰黛尔原型是C罗"——米哈游文案limengan爆典事件](./limengan/)
+![limengan语录 version 1](./limengan/meme/大猛干典王%20ver.1.jpg)
 素材整理中
 tba
 
