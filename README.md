@@ -7,15 +7,16 @@
 
 帖子被搬运回中文社区引起讨论。不久有人通过红迪的发帖记录找到了`Snoo2612`的疑似社交媒体账号 `@zoefang66`(Twitter), `zoe.art.diary`(Ins), `ZoeFang`(Deviantart/Artstation)等。同时发现大量争议言论，包括但不限于：
 - 打女拳。挑起原神玩家对立，制造流浪者跟其它角色玩家之间的对立。
-- 煽动性别对立。一方面称原神女角色衣着暴露，需要和谐；一方面follow衣着暴露的骚气小男孩角色（流浪者、黑丝紧身衣吊袜带男孩林尼等）。
+- 煽动性别对立。一方面称原神女角色衣着暴露，需要和谐；一方面follow衣着暴露的骚气小男孩角色（流浪者、黑丝吊袜带小男孩等，参见其[ins关注](./zoe_fang/zoefang_ins_follows.jpg)）。
 - 对抽象群体仙家军的支持言论。
 - 发表“武汉肺炎”以及中国政府相关的争议言论。
 
 具体参见NGA留档[在红迪发帖的人是一个真正的汉奸(多图，有证据)](./zoe_fang/在红迪发帖的人是一个真正的汉奸/)。
 
-后续疑似`ZoeFang`的新注册用户在红迪[控诉被NGA网暴](./zoe_fang/The_OP_of_the_Wanderer_drama.jpg)，试图以“中国的极端民族主义受害者”博取红迪用户同情。
-
-最初的贴主Snoo2612在原贴编辑了更多内容，自己承认了头像为亚洲女人的推特账户@zoefang66 就是她本人。<img width="528" alt="image" src="https://github.com/riccaxricca/wyswd/assets/110645427/f85206f7-f2d7-437e-9e5f-5070582dd46e">
+**后续发展**
+1. 疑似`ZoeFang`的新注册用户在红迪[控诉被NGA网暴](./zoe_fang/The_OP_of_the_Wanderer_drama.jpg)，试图以“中国的极端民族主义受害者”博取红迪用户同情。
+2. 网友发现`ZoeFang`在推特账户大量点赞争议的政治言论，并将截图备份在网盘，参见[某帖主的罕见程度，比你能看到的还要罕见](./zoe_fang/某帖主的罕见程度_比你能看到的还要罕见.jpg)
+3. 最初的贴主`Snoo2612`在原贴编辑了[更多内容](./zoe_fang/zoefang_reddit_edit.jpg)，承认了头像为亚洲女人的推特账户`@zoefang66`就是她本人。此次编辑[再次引起NGA讨论](./zoe_fang/[NGA]Reddit热帖帖主编辑.jpg)。
 
 
 ### 2023-7-21 [米哈游资深文案limengan爆典事件](./limengan/)
