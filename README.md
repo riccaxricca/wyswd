@@ -15,5 +15,8 @@
 
 后续疑似`ZoeFang`的新注册用户在红迪[控诉被NGA网暴](./zoe_fang/The_OP_of_the_Wanderer_drama.jpg)，试图以“中国的极端民族主义受害者”博取红迪用户同情。
 
+最初的贴主Snoo2612在原贴编辑了更多内容，自己承认了头像为亚洲女人的推特账户@zoefang66 就是她本人。<img width="528" alt="image" src="https://github.com/riccaxricca/wyswd/assets/110645427/f85206f7-f2d7-437e-9e5f-5070582dd46e">
+
+
 ### 2023-7-21 [米哈游资深文案limengan爆典事件](./limengan/)
 tba
