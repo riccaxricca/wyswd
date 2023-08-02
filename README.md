@@ -20,6 +20,7 @@
 1. 疑似`ZoeFang`的新注册用户在红迪 [控诉被NGA网暴](./zoe_fang/The_OP_of_the_Wanderer_drama.jpg)，试图以“中国的极端民族主义受害者”博取红迪用户同情。
 2. 网友发现`ZoeFang`在推特账户大量点赞争议的政治言论，并将截图备份在网盘，参见 [某帖主的罕见程度，比你能看到的还要罕见](./zoe_fang/某帖主的罕见程度_比你能看到的还要罕见.jpg)。
 3. 最初的贴主`Snoo2612`在原贴编辑了 [更多内容](./zoe_fang/zoefang_reddit_edit.jpg)，承认了头像为亚洲女人的推特账户`@zoefang66`就是她本人。此次编辑 [再次引起NGA讨论](./zoe_fang/[NGA]Reddit热帖帖主编辑.jpg)。
+4. 方女士的行为加深了外网社区对中国人的刻板印象和偏见，引发非简中原神社区对中国人的贬低和辱骂。例如8月1日网上流传出一张[散兵遛中国国旗](./zoe_fang/后续发酵/l2Q2s-dswwZbT1kShs-12i.jpg)的俄语meme。该图引起[NGA讨论](./zoe_fang/后续发酵/​[不吐不快]散兵流水不好的事情被转到外网去了.jpg)。
 
 ## 2023-7-24 ["幽兰黛尔原型是C罗"——资深文案limengan爆典事件](./limengan/)
 ![limengan动图](./limengan/limengan.gif)
