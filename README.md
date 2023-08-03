@@ -15,17 +15,20 @@
 
 ### 诚挚欢迎史官们投稿！
 
-投稿要求：以叙事视角行文，可以有立场但必须有理由据，提供必要截图/存档做证据，不能岁月史书。
+投稿要求：
+- 可以是新瓜也可以是老瓜的修正/补充。
+- 以叙事视角行文，可以有立场但必须有理由据，提供必要截图/存档做证据，不能岁月史书。
+- 格式不限，可以参考已有格式或者随意。
 
-投稿格式：不限。可以参考已有格式或者随意。
 
 投稿方式：
-1. 开一个issue，放稿件链接或直接写在issue里，我手动帮你添加。
+1. 开一个issue，放稿件链接或直接写在issue里，热心网友会帮忙添加。
 2. 直接提pull request。
 
 ### 致谢
-- 感谢所有提PR的网友：PrussianBlueCN。
-- 感谢sdljfkl，ToutSeul等网友提供的宝贵资料。
+感谢所有投稿和参与repo建设的网友！
+- Github网友：**PrussianBlueCN**
+- NGA网友：**sdljfkl** (RichardData)，**ToutSeul** (limengan高楼备份，表情包等)，**lqjy** (zoe_fang部分截图)
 
 ### To go further
 - [RichardData](https://github.com/RichardGuyNotFavMHY/RichardData)，一个自动记录里茶馆内所有发帖和回帖的项目。可以找到NGA理查版的高楼文本和图片备份。
